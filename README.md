@@ -1,2 +1,2 @@
 # System Monitor (Wriffinor)
-Мій перший проект на Python для моніторингу навантаження CPU та RAM у Linux.
+My first Python project for monitoring CPU and RAM usage in Linux.
